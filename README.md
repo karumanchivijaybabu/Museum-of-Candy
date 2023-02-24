@@ -1,5 +1,7 @@
 # Museum-of-Candy
-responsive Landing Page
-created using html,css grid & bootstrap
+Responsive Landing Page
+created using html,css & bootstrap
+
 TO access the website click the link below :
+
       https://karumanchivijaybabu.github.io/Museum-of-Candy/
